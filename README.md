@@ -1,1 +1,1 @@
-# Masai-Capstone-Project
+# Instamart Customer Intelligence & Support Copilot — Capstone Project
